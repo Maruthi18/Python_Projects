@@ -27,6 +27,8 @@ operations = {
 
 
 def calculator():
+	""" here we are taking n1 and n2 values and evaluating and print the answer"""
+	print(calculator.__doc__)
 	print(logo)
 
 	n1 = float(input("What's the first number?: "))
